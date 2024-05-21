@@ -330,3 +330,6 @@
         font-size: calc(1.475rem + 2.7vw) !important;
     }
 }
+.overallsec{
+    overflow: hidden;
+}
